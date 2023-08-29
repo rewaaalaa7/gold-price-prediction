@@ -1,6 +1,6 @@
 # gold-price-prediction
 
-Gold Price Prediction using ML 
+Gold Price Prediction using ML. 
 Data Set : https://www.kaggle.com/datasets/altruistdelhite04/gold-price-data
 
 This repository contains my solution to the Kaggle challenge Gold Price Problem, which aims to predict the gold price for the next 30 days based on historical data.
